@@ -27,11 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-irtiza20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=mohd-irtiza20&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohd-irtiza20&theme=dark&hide_border=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-irtiza20&show_icons=true&locale=en&layout=compact" alt="mohd-irtiza20" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-irtiza20&show_icons=true&locale=en" alt="mohd-irtiza20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-irtiza20&" alt="mohd-irtiza20" /></p>
 
 
 ## 🏆 GitHub Trophies
