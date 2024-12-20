@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mohdirtiza20@gmail.com**
 
-- ⚡ Fun fact **Sports enthusiast who loves cricket, basketball, and volleyball.**
+- ⚡ Fun fact: **Sports enthusiast who loves cricket, basketball, and volleyball.**
 
 
 ## 🌐 Socials:
