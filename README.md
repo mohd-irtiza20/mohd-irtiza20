@@ -1,4 +1,4 @@
-## About Me 👋  <br><br>Hi there! I'm Mohd Irtiza, a passionate software developer from Srinagar, Jammu and Kashmir.<br><br>- 🔭 I'm currently working on backend development projects using PHP and Laravel.  <br>- 🤝 I'm looking to collaborate on open-source projects or innovative web applications.  <br>- 🌱 I'm currently learning advanced Laravel, JavaScript, and modern frameworks like React and Next.js.  <br>- 💬 Ask me about backend development, PHP, or transitioning between frontend and backend roles.  <br>- 🎉 Fun fact: I’m a sports enthusiast and have played cricket, basketball, and volleyball during my university days.  <br><br>Let’s connect and create something awesome together!  <br>
+## About Me 👋  <br><br>Hi there! I'm Mohd Irtiza, a passionate software developer from Srinagar, Jammu and Kashmir.<br><br>- 🔭 I'm currently working on backend development projects using PHP and Laravel.  <br>- 🤝 I'm looking to collaborate on open-source projects or innovative web applications.  <br>- 🌱 I'm currently learning advanced Laravel, JavaScript, React, and Node.js.  <br>- 💬 Ask me about backend development or frontend development.  <br>- 🎉 Fun fact: Sports enthusiast who loves cricket, basketball, and volleyball.  <br><br>Let’s connect and create something awesome together!  <br>
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohd-irtiza20&theme=merko&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohd-irtiza20&icon=0&color=9)](https://visitcount.itsvg.in)
