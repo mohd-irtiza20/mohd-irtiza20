@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohd Irtiza</h1>
-<h3 align="center">A passionate software developer from Jammu and Kashmir</h3>
 
 - 🔭 I’m currently working on **backend development projects**
 
