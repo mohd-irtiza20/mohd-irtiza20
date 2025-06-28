@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **on open-source projects or innovative web applications.**
 
-- 👨‍💻 All of my projects are available at [https://mohdirtiza-portfolio.netlify.app/](https://mohdirtiza-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohdirtiza-portfolio.netlify.app/](https://mohdirtiza.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@mohdirtiza20](https://medium.com/@mohdirtiza20)
 
